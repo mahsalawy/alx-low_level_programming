@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * _isalpha - Check Main
  * @c: An input character
@@ -21,4 +21,3 @@ int _isalpha(int c)
 	}
 	return (isletter);
 }
-
